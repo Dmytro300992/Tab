@@ -5,3 +5,7 @@ table, td {
 table, tr {
     background-color: azure;
 }
+
+table {
+    width: 80%;
+}
